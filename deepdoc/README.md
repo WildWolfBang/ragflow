@@ -10,9 +10,9 @@ English | [简体中文](./README_zh.md)
 ## 1. Introduction
 
 With a bunch of documents from various domains with various formats and along with diverse retrieval requirements, 
-an accurate analysis becomes a very challenge task. *Deep*Doc is born for that purpose.
+an accurate analysis becomes a very challenging task. *Deep*Doc is born for that purpose.
 There are 2 parts in *Deep*Doc so far: vision and parser. 
-You can run the flowing test programs if you're interested in our results of OCR, layout recognition and TSR.
+You can run the following test programs if you're interested in our results of OCR, layout recognition and TSR.
 ```bash
 python deepdoc/vision/t_ocr.py -h
 usage: t_ocr.py [-h] --inputs INPUTS [--output_dir OUTPUT_DIR]
